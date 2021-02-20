@@ -4,7 +4,7 @@
 
 Landing page de uma agência de marketing.
 <br>
-<a href=""><s>Live Preview</s></a>
+<a href="https://ultra-landing-page.vercel.app/">Live Preview</a>
 
 ### Source
 
