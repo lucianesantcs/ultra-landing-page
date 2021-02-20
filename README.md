@@ -15,6 +15,7 @@ Projeto criado através do vídeo <a href="https://www.youtube.com/watch?v=iP_Hq
 - ReactJS
 - Styled-Components
 - React Router
+- React Hooks
 
 ### Author
 
